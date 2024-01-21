@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akhil-sharma
-- 👀 I’m interested in 
+- 👀 I’m interested in finding and analysing  the new tread in the data
 - 🌱 I’m currently learning data analysist techniques ....
 - 📫 How to reach me  www.linkedin.com/in/akhil-sharma21242421
 
